@@ -1,3 +1,3 @@
 # Apnacollege-demo
-This is my first repository
-Auther - Salman
+This is my first repository.  
+Author - Salman
